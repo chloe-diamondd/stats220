@@ -3,3 +3,6 @@
 ### lots to say 
 * many words
 * lots and lots 
+
+** bold ** 
+* italics* 
