@@ -4,5 +4,5 @@
 * many words
 * lots and lots 
 
-** bold ** 
-* italics* 
+**bold text**
+*cat's meow*
